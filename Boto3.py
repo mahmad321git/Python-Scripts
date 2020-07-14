@@ -6,6 +6,7 @@ import pandas as pd
 #     print(bucket.name)
 s3 = boto3.resource('s3')
 
+
 #for uploading a file
 file = "datafile/veh.csv"
 data = open(file, 'rb')
