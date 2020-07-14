@@ -10,6 +10,7 @@ def miles_to_feet(miles):
 
 miles_to_feet(13)
 
+
 #Write a Python function that takes three parameters , and
 #and returns the total number of seconds for hours, minutes and
 #seconds
